@@ -92,7 +92,7 @@ http://<your-student-number>.azurewebsites.net
 
 ---
 
-## 📸 Required Screenshots (For Submission)
+## 📸 Required Screenshots 
 
 Include screenshots of:
 
